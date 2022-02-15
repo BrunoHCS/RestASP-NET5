@@ -26,3 +26,12 @@ D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\obj\Debug\net5.0\
 D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\obj\Debug\net5.0\ref\RestASP-NET5.dll
 D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\obj\Debug\net5.0\RestASP-NET5.pdb
 D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\obj\Debug\net5.0\RestASP-NET5.genruntimeconfig.cache
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\MySqlConnector.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
