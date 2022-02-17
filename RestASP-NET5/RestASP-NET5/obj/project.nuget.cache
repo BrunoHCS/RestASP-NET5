@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AEicxoU+pRAsw7ZwkAEsPMdcoZ6pJq455r/uOoMRJOVO0ip0KdZRkXaZUEM/hj+ksshDVXa4ImrT+OSQDZ7yww==",
+  "dgSpecHash": "SjDQqrwx0buz1taDjrtePK6gt0s2lDEX7X0UEg26Bzp88y5i/Udj2MCzURq8Ee7jbpkZ2n1oEKb4BuM+uwVYsw==",
   "success": true,
   "projectFilePath": "D:\\MINHAS PASTAS\\GitHub\\RestASP-NET5\\RestASP-NET5\\RestASP-NET5\\RestASP-NET5.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.1.1\\microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

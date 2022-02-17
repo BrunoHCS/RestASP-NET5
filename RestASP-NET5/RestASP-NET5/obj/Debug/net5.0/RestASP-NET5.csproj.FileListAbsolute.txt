@@ -35,3 +35,5 @@ D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\
 D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
 D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\MINHAS PASTAS\GitHub\RestASP-NET5\RestASP-NET5\RestASP-NET5\obj\Debug\net5.0\RestASP-NET5.csproj.AssemblyReference.cache
